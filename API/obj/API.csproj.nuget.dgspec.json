@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pranavan/Desktop/p1/skinet/API/API.csproj": {}
+    "/Users/pranavan/Documents/MyRepo/Ecommerce/skinet/API/API.csproj": {}
   },
   "projects": {
-    "/Users/pranavan/Desktop/p1/skinet/API/API.csproj": {
+    "/Users/pranavan/Documents/MyRepo/Ecommerce/skinet/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pranavan/Desktop/p1/skinet/API/API.csproj",
+        "projectUniqueName": "/Users/pranavan/Documents/MyRepo/Ecommerce/skinet/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/pranavan/Desktop/p1/skinet/API/API.csproj",
+        "projectPath": "/Users/pranavan/Documents/MyRepo/Ecommerce/skinet/API/API.csproj",
         "packagesPath": "/Users/pranavan/.nuget/packages/",
-        "outputPath": "/Users/pranavan/Desktop/p1/skinet/API/obj/",
+        "outputPath": "/Users/pranavan/Documents/MyRepo/Ecommerce/skinet/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pranavan/.nuget/NuGet/NuGet.Config"
