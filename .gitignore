@@ -3,6 +3,8 @@
 
 ### DotnetCore ###
 # .NET Core build folders
+bin
+obj
 /bin
 /obj
 
