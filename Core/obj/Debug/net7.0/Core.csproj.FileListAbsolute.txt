@@ -1,0 +1,12 @@
+/Users/pranavan/Documents/MyRepo/Ecommerce/skinet/Core/bin/Debug/net7.0/Core.deps.json
+/Users/pranavan/Documents/MyRepo/Ecommerce/skinet/Core/bin/Debug/net7.0/Core.dll
+/Users/pranavan/Documents/MyRepo/Ecommerce/skinet/Core/bin/Debug/net7.0/Core.pdb
+/Users/pranavan/Documents/MyRepo/Ecommerce/skinet/Core/obj/Debug/net7.0/Core.csproj.AssemblyReference.cache
+/Users/pranavan/Documents/MyRepo/Ecommerce/skinet/Core/obj/Debug/net7.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pranavan/Documents/MyRepo/Ecommerce/skinet/Core/obj/Debug/net7.0/Core.AssemblyInfoInputs.cache
+/Users/pranavan/Documents/MyRepo/Ecommerce/skinet/Core/obj/Debug/net7.0/Core.AssemblyInfo.cs
+/Users/pranavan/Documents/MyRepo/Ecommerce/skinet/Core/obj/Debug/net7.0/Core.csproj.CoreCompileInputs.cache
+/Users/pranavan/Documents/MyRepo/Ecommerce/skinet/Core/obj/Debug/net7.0/Core.dll
+/Users/pranavan/Documents/MyRepo/Ecommerce/skinet/Core/obj/Debug/net7.0/refint/Core.dll
+/Users/pranavan/Documents/MyRepo/Ecommerce/skinet/Core/obj/Debug/net7.0/Core.pdb
+/Users/pranavan/Documents/MyRepo/Ecommerce/skinet/Core/obj/Debug/net7.0/ref/Core.dll

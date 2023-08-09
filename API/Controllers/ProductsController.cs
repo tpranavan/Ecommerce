@@ -2,7 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using API.Data;
+using Core.Entities;
+using Infrastructure.Data;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace API.Controllers
 {
@@ -13,15 +17,23 @@ namespace API.Controllers
     //inheritng .Net.Core.MVC     
     // http://localhost:5001/api/products
     {
-        [HttpGet]
-        public string GetProducts()
+        private readonly StoreContext _context;
+        public ProductsController(StoreContext context)
         {
-            return "List of products";
+            _context = context;
+
+        }
+
+        [HttpGet]
+        public async Task<ActionResult<List<Product>>> GetProducts()
+        {
+            var products = await _context.Products.ToListAsync();
+            return Ok(products);
         }
         [HttpGet("{id}")]
         public string GetProduct(int id)
         {
-            return "Single product ";
+            return "Single product";
         }
 
 
